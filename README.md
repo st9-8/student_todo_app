@@ -1,3 +1,4 @@
+modifie par Marlon
 # 📝 Django TODO App - Backend Exercise
 
 A practical web development exercise focused on building a complete Django backend for a TODO application. The frontend templates are provided, allowing students to concentrate on models, views, forms, and Django architecture.
